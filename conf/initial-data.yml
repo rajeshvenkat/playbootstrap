@@ -1,0 +1,29 @@
+
+# Users
+
+users:
+
+    - !!models.User
+        email:      guillaume@sample.com
+        name:       Guillaume Bort
+        password:   secret
+    
+    - !!models.User
+        email:      maxime@sample.com
+        name:       Maxime Dantec
+        password:   secret
+    
+    - !!models.User
+        email:      sadek@sample.com
+        name:       Sadek Drobi
+        password:   secret
+    
+    - !!models.User
+        email:      erwan@sample.com
+        name:       Erwan Loisant
+        password:   secret
+
+    - !!models.User
+        email:      appuser@a3.com
+        name:       John Smith
+        password:   49ers
